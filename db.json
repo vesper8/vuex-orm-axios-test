@@ -281,51 +281,6 @@
           "slug": "bicycle"
         }
       ]
-    },
-    {
-      "id": 5,
-      "name": "Nicholaus",
-      "slug": "nicholaus",
-      "email": "bruen.cordelia@example.net",
-      "aboutMe": "Et deleniti voluptatem quia fugit eligendi tempore. Quia tempore repellendus et est voluptatem in. Reiciendis itaque debitis a omnis aut iste. Quis non ducimus ad fugit. Soluta voluptatibus id delectus id neque. Nobis est et aspernatur dolore non. Laborum minima dolores ex numquam quis unde unde sunt.",
-      "avatar": "\\/img\\/ph-avatar.png",
-      "projects": [
-        {
-          "id": 7,
-          "userId": 5,
-          "by": "Nicholaus",
-          "type": "offer",
-          "description": "Dignissimos itaque sed eos odit. Ut soluta dolorem est veritatis. In sed aut itaque deleniti. Perspiciatis et commodi omnis dolorum distinctio dolorum.",
-          "incentive": "33% equity",
-          "skills": [
-            {
-              "id": 14,
-              "name": "Copywriting",
-              "slug": "copywriting"
-            },
-            {
-              "id": 21,
-              "name": "Blogging",
-              "slug": "blogging"
-            },
-            {
-              "id": 29,
-              "name": "Swift",
-              "slug": "swift"
-            },
-            {
-              "id": 31,
-              "name": "Information Product Creator",
-              "slug": "information-product-creator"
-            },
-            {
-              "id": 41,
-              "name": "Ruby",
-              "slug": "ruby"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
